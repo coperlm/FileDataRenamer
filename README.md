@@ -34,7 +34,7 @@
 
 ### 1. 图形界面模式
 
-直接运行脚本启动GUI：
+直接运行脚本启动GUI：（记得使用管理员模式）
 
 ```bash
 python date_rename.py
@@ -144,7 +144,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 作者
 
-[您的用户名]
+coperlm
 
 ## 更新日志
 
